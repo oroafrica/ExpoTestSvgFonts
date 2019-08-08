@@ -5496,6 +5496,11 @@ react-native-reanimated@~1.1.0:
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-1.1.0.tgz#ba6864055ec3a206cdd5209a293fe653ce276206"
   integrity sha512-UGDVNfvuIkMqYUx6aytSzihuzv6sWubn0MQi8dRcw7BjgezhjJnVnJ/NSOcpL3cO+Ld7lFcRX6GKcskwkHdPkw==
 
+react-native-svg@^9.6.2:
+  version "9.6.2"
+  resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.6.2.tgz#e29b626f115230e0f0f3693887f36e60b5b01408"
+  integrity sha512-TwTEkGTe2aRh1VBemFIuc6bCvPmlVUAd2kk4HmZLuxyBDAzEAbWYFsvDSkGd9mZ06ghx1gDg+c0hrH3y0q/eDA==
+
 react-native-unimodules@~0.5.2:
   version "0.5.4"
   resolved "https://registry.yarnpkg.com/react-native-unimodules/-/react-native-unimodules-0.5.4.tgz#d4d779576a027f0455b14d396b0e002cb57963fe"
